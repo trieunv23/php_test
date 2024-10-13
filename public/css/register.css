@@ -1,0 +1,12 @@
+body {
+   background-color: #edede9; 
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.box {
+    width: 50%;
+    height: max-content;
+    background-color: #ebf2fa;
+}
